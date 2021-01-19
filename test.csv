@@ -1,6 +1,2 @@
-date ,number 
-1-Jan,1
-2-Jan,2
-3-Jan,3
-4-Jan,4
-5-Jan,5
+First name,Last Name,Email,Mobile,Title
+John,Marrier,john@example.com,111-222-5564,Chief Design Engineer
